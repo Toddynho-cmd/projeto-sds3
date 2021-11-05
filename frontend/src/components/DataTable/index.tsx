@@ -1,6 +1,4 @@
-import React from 'react';
-
-function DataTablec() {
+const DataTable = () => {
     return (
         <div>
             <div className="table-responsive">
@@ -29,4 +27,4 @@ function DataTablec() {
     );
 }
 
-export default DataTablec;
+export default DataTable;
