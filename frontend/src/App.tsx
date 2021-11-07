@@ -9,7 +9,7 @@ function App() {
     return (
         <>
             <NavBar />
-            <div className="container">
+            <div className="container min-vh-100">
                 <h1 className="text-primary py-3">Dasboard de Vendas</h1>
 
                 <div className="row px-3">
